@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EyeScroll</string>
+    <string name="accessibility_description">Lets EyeScroll swipe the screen for you when your eye gesture is detected. It only performs swipes and does not read screen content.</string>
+</resources>
